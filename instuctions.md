@@ -9,8 +9,9 @@ simply try python3 -m http.server
 and then view it on browser at localhost:8000
 
 game assets are available in the assets folder
+
 resources for getting assets and sources can be found
-in the sources folder.
+in the sources text file.
 
 
 -----------------------------------------------------------------------------NIK-K-2022-----------------------------------------------------------------
