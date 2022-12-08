@@ -1,4 +1,4 @@
-                                                                             INSTRUCTIONS
+                                                                  INSTRUCTIONS
 
 Flappy bird game created fully in p5 javascript.
 This is my art 151 final project using p5 javascript
