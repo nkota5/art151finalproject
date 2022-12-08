@@ -13,5 +13,7 @@ game assets are available in the assets folder
 resources for getting assets and sources can be found
 in the sources text file.
 
+p5 javascript fullscreen game link: https://editor.p5js.org/nkota5/sketches/ciBNtwg80
+p5 javascipt editor link : https://editor.p5js.org/nkota5/sketches/ciBNtwg80
 
 -----------------------------------------------------------------------------NIK-K-2022-----------------------------------------------------------------
