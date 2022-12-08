@@ -1,0 +1,11 @@
+These are all the necessary sources for the project that have been used:
+
+Flappy bird image (bird_model): https://www.kindpng.com/picc/m/9-92019_flappy-bird-png-flappy-bird-sprite-png-transparent.png
+Floor asset: created by me 
+Flappy bird Pole: http://pixelartmaker.com/art/6d2a698f31595a1
+Background town image (town) : https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbgRYAXEsAdo-bLSRl19AvMRt3s9m82B9LSdmZeUXGMx7KTggJ
+Flappy bird sound effects: https://www.sounds-resource.com/mobile/flappybird/sound/5309/
+Flappy bird Font: https://www.dafont.com/flappybirdy.font
+All these assets can be found in the assets folder of the project.
+
+-------------------------------------------------project created by Nik K-2022--------------------------------------------------------------
